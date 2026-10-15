@@ -1,0 +1,17 @@
+Stream pipeline====================>
+List
+ |
+ v
+stream()
+ |
+ v
+filter()
+ |
+ v
+map()
+ |
+ v
+sorted()
+ |
+ v
+collect()
